@@ -160,3 +160,5 @@ Examples of websites that started off with Next.js WordPress Starter
 
 
 
+# wordpress-nextjs
+# wordpress-nextjs
